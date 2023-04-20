@@ -1,4 +1,5 @@
-# Minnesota Bike Laws Transliterated for Easy Comprehension. The full text can be found [here](https://www.revisor.mn.gov/statutes/cite/169.222#stat.169.222.1).
+# Minnesota Bike Laws Transliterated for Easy Comprehension. 
+The full text can be found [here](https://www.revisor.mn.gov/statutes/cite/169.222#stat.169.222.1).
 
 ## 1. Traffic laws apply to bicycles
 
