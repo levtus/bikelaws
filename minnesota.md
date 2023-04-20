@@ -59,7 +59,7 @@ The full text can be found [here](https://www.revisor.mn.gov/statutes/cite/169.2
 
 - Riders under 15 years old can't operate electric bikes.
 
--Electric bikes must have a label with classification number, top speed, and motor wattage.
+- Electric bikes must have a label with classification number, top speed, and motor wattage.
 
 - Don't modify electric bikes to change speed or motor engagement without updating the label.
 
@@ -91,4 +91,4 @@ The full text can be found [here](https://www.revisor.mn.gov/statutes/cite/169.2
 
 ## 11. Police Bicycles
 
-The rules in this section about riding and operating bicycles do not apply to police officers who are performing their duties.
+- These  about riding and operating bicycles do not necessarily apply to police officers who are performing their duties.
